@@ -1,0 +1,80 @@
+*{
+	font-family: arial ;
+	margin: 8px 20px;
+	
+
+}
+
+.input{
+	width: 150px;
+	display: inline-block;
+	margin-left: 300px;
+	border-style: solid;
+}
+#btn2 .submit{
+	width: 180px;
+	height: 30px;
+	margin-left: 190px;
+
+}
+.p1{
+	margin-left: 200px;
+}
+.submit:hover{
+	background-color: #27AE60;
+	border-radius: 3px;
+	color: white;
+	transition: 0.1s;
+}
+.btncancel{
+	font-size: 20px;
+	cursor: pointer;
+	margin: 10px 10px;
+	box-sizing: border-box;
+	border: solid;
+	border-color: #EAECEE;
+	padding: 10px;
+	text-decoration:none;
+	color:black;
+	background-color: #D5D8DC;
+	border-radius: 10px;
+}
+
+.btncancel:hover{
+	background-color: #C0392B ;
+	border-radius: 5px;
+	color: white;
+	transition: 0.1s;
+	}
+
+.green{
+	font-size: 20px;
+	cursor: pointer;
+	margin: 10px 10px;
+	box-sizing: border-box;
+	border: solid;
+	border-color: #EAECEE;
+	padding: 10px;
+	text-decoration:none;
+	color:black;
+	background-color: #D5D8DC;
+	border-radius: 10px;
+}
+
+.green:hover{
+	background-color: #27AE60 ;
+	border-radius: 5px;
+	color: white;
+	transition: 0.1s;
+	}
+
+#form{
+	margin: center;
+	background-color: #ECF0F1;
+}
+.textarea{
+		width: 350px;
+	display: inline-block;
+	margin-left: 300px;
+	border-style: solid;
+}
